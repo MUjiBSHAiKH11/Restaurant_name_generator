@@ -45,13 +45,4 @@ if __name__=="__main__":
 
 
 
-# Sequential chain needs input + output variables defined
-# chain = SequentialChain(
-#     chains=[name_chain, food_items_chain],
-#     input_variables=['cuisine'],
-#     output_variables=['restaurant_name', 'menu_items']
-# )
 
-# # Run
-# response = chain({'cuisine': 'Indian'})
-# print(response)
